@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\personal_pokedex_api.props" />
-</Project>
